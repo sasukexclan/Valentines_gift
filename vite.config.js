@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
     react()],
-  base: "/Valentines_gift",
+  base: "/Valentines_gift/",
 })
